@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 May 2026 08:06:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 10:00:22 +0000</lastBuildDate>
     <item>
       <title>OPTIMAL RISK-AVERSE DESIGN OF GREEN HYDROGEN PROJECTS IN BRAZIL: A STOCHASTIC OPTIMIZATION APPROACH</title>
       <link>https://www.semanticscholar.org/paper/028e098db1db4bbe0da161d24eb9ac1f4474e44a</link>
@@ -72,6 +72,20 @@
       <description>A metaverse can bring many benefits (i.e., self-sustaining and proactive analytics (e.g., analysis before user requests)) to wireless applications; however, its deployment is very challenging due to simultaneous quality of service (QoS) and quality of physical experience (QoE) constraints. Furthermore, the computing and communication resources of end-nodes are limited. Therefore, this paper proposes a novel task offloading framework for metaverse-empowered wireless systems. Our formulated problem aims at minimizing the cost of task offloading in the metaverse while considering both QoS and QoE constraints by optimizing the task offloading, resource allocation, and transmit power allocation variables. To optimize the formulated problem, we use a decomposition-based scheme that further uses modified block-successive upper-bound minimization (BSUM), convex optimization, and multi-agent reinforcement learning (MARL) for transmit power allocation, resource allocation, and task offloading, respectively. Our solution of using convex optimization-assisted MARL for joint resource allocation and task offloading significantly improves the performance of learning in terms of reward. Furthermore, BSUM significantly improves transmit power allocation when used in conjunction with a convex optimizer and MARL. Other than that, we also use dueling to further improve the performance of MARL. Our analyses show that convex optimization, BSUM, and dueling help in significantly improving the performance of MARL. Compared to traditional MARL, our proposal results in significant improvement in terms of reward and cost, as illustrated by the results.</description>
       <guid isPermaLink="false">doi:10.1109/TMC.2025.3648196</guid>
       <pubDate>Sun, 10 May 2026 08:06:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Accelerated Gradient Descent for Faster Convergence with Minimal Overhead</title>
+      <link>http://arxiv.org/abs/2605.16017v1</link>
+      <description>In this paper, we present CT-AGD (Curvature-Tuned Accelerated Gradient Descent), an optimization method for non-convex optimization problems in deep learning training tasks. CT-AGD is a general boosting procedure that accelerates first-order methods by explicitly capturing the local curvature using finite-difference quotients, and the development of heuristics aimed at mitigating noise and bias introduced by stochastic mini-batch training. CT-AGD has a comparable storage and computational overhead as adaptive gradient methods such as Adam. Our extensive experiments demonstrate that CT-AGD achieves the same level of accuracy as the baseline first-order methods, yet reduces the required training epochs by 33% on average.</description>
+      <guid isPermaLink="false">arxiv:2605.16017</guid>
+      <pubDate>Mon, 18 May 2026 10:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Privacy Price of Tail-Risk Learning: Effective Tail Sample Size in Differentially Private CVaR Optimization</title>
+      <link>http://arxiv.org/abs/2605.16219v1</link>
+      <description>Differential privacy changes the effective sample size governing CVaR learning. For tail mass $τ$, the privacy-relevant sample size is not $n$, but $nτ$; equivalently, the effective private tail sample size is $εnτ$. Private CVaR excess risk decomposes into ordinary tail-risk statistical error and a privacy price. This decomposition is complete for scalar estimation and finite classes: scalar estimation has rate $Θ(B \min\{1,(nτ)^{-1/2}+(εnτ)^{-1}\})$, and finite classes of size $M$ have rate $Θ(B \min\{1,\sqrt{\log(2M)/(nτ)}+\log(2M)/(εnτ)\})$. These complete rates hold under pure DP, and their lower bounds extend to approximate DP in the stated small-$δ$ regimes. For convex Lipschitz learning, modular upper and lower reductions show that the CVaR-specific privacy term necessarily scales as $1/(εnτ)$, with dimension dependence inherited from private stochastic convex optimization. Together, these results identify ordinary private learning on $Θ(nτ)$ informative tail records as the canonical hard subproblem inside private CVaR learning.</description>
+      <guid isPermaLink="false">arxiv:2605.16219</guid>
+      <pubDate>Mon, 18 May 2026 10:00:22 +0000</pubDate>
     </item>
   </channel>
 </rss>

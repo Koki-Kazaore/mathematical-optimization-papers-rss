@@ -10,21 +10,6 @@
     <language>en</language>
     <lastBuildDate>Sat, 06 Jun 2026 08:31:28 +0000</lastBuildDate>
     <item>
-      <title>OPTIMAL RISK-AVERSE DESIGN OF GREEN HYDROGEN PROJECTS IN BRAZIL: A STOCHASTIC OPTIMIZATION APPROACH</title>
-      <link>https://www.semanticscholar.org/paper/028e098db1db4bbe0da161d24eb9ac1f4474e44a</link>
-      <description>No abstract available.</description>
-      <guid isPermaLink="false">doi:10.17771/pucrio.acad.69614</guid>
-      <pubDate>Tue, 14 Apr 2026 14:49:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deterministic and stochastic optimization for solving large size inverse problems in image processing</title>
-      <link>https://www.semanticscholar.org/paper/0073b5f7c09801aa9740f8f17aad511e26e56c08</link>
-      <description>
- Dans cette thèse on s’intéresse au problème des décompositions canoniques polyadiques de tenseurs d’ordre N potentiellement grands et sous différentes contraintes (non-négativité, aspect creux lié à une possible surestimation du rang du tenseur). Pour traiter ce problème, nous proposons trois nouvelles approches itératives différentes: deux approches déterministes dont une approche proximale, et une approche stochastique. La première approche étend les travaux de thèse de J-P. Royer au cas de tenseurs de dimension N. Dans l’approche stochastique, nous considérons pour la première fois dans le domaine des décompositions tensorielles, des algorithmes génétiques (mimétiques) dont principe général repose sur l’évolution d’une population de candidats. Dans le dernier type d’approche, nous avons considéré un algorithme proximal pré-conditionné (le Block-Coordinate Variable Metric Forward-Backward), algorithme fonctionnant par blocs de données avec une matrice de pré-conditionnement liée à chaque bloc et fondé sur deux étapes successives principales : une étape de gradient et une étape proximale. Finalement, les différentes méthodes suggérées sont comparées entre elles et avec d’autres algorithmes classiques de la littérature sur des données synthétiques (à la fois aléatoires ou proches des données observées en spectroscopie de fluorescence) et sur des données expérimentales réelles correspondant à une campagne de surveillance des eaux d’une rivière et visant à la détection d’apparition de polluants.</description>
-      <guid isPermaLink="false">doi:10.70675/3459c071zc780z47ffz86b0z9386f680ab57</guid>
-      <pubDate>Tue, 14 Apr 2026 14:49:22 +0000</pubDate>
-    </item>
-    <item>
       <title>A traveling salesman problem with drone stations and speed-optimized drones</title>
       <link>https://www.semanticscholar.org/paper/00809c1a4526f981d3e462ac7a331e736f90bc83</link>
       <description>: With e-commerce expanding rapidly, last-mile delivery challenges have been exacerbated, necessitating innovative logistics to reduce operational costs and improve delivery speed. This paper investigates a traveling salesman problem with drone stations, where a truck collaborates with multiple drones docked at candidate drone stations to serve customers. In contrast to existing studies that typically assume fixed drone speeds, this work treats drone speeds as decision variables and introduces a comprehensive energy consumption model that accounts for all phases of drone flight. The objective is to jointly optimize truck routing, station selection, drone – customer assignment, and drone speed to minimize the total delivery cost. Through a speed-discretion method, we formulate the problem as a mixed-integer linear programming model and develop a tailored adaptive large neighborhood search (ALNS) algorithm. Computational experiments indicate that for large-sized instances with 80 – 100 customers and 16 – 20 candidate stations, ALNS produces solutions within 50 seconds, with average optimality gaps below 1.8% compared to Gurobi’s solutions obtained under a 5000-second time limit. The results also show that the speed optimization strategy consistently outperforms fixed-speed approaches across multiple performance metrics, including total cost, service completion time, energy consumption, and service coverage.</description>
@@ -58,83 +43,6 @@
       <description>For modeling imprecise and indeterminate data for multi-objective decision making, two different methods: neutrosophic multi-objective linear/non-linear programming neutrosophic goal programming, which have been very recently proposed in the literatuire. In many economic problems, the well-known probabilities or fuzzy solutions procedures are not suitable because they cannot deal the situation when indeterminacy inherently involves in the problem. In this case we propose a new concept in optimization problem under uncertainty and indeterminacy. It is an extension of fuzzy and intuitionistic fuzzy optimization in which the degrees of indeterminacy and falsity (rejection) of objectives and constraints are simultaneously considered together with the degrees of truth membership (satisfaction/acceptance). The drawbacks of the existing neutrosophic optimization models have been presented and new framework of multi-objective optimization in neutrosophic environment has been proposed. The essence of the proposed approach is that it is capable of dealing with indeterminacy and falsity simultaneously.</description>
       <guid isPermaLink="false">title:g lobal|surapati pramanik|2026</guid>
       <pubDate>Tue, 14 Apr 2026 14:49:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quantum-Inspired Hamiltonian Descent for Mixed-Integer Quadratic Programming</title>
-      <link>https://www.semanticscholar.org/paper/019a75f1df24f379a909ed29aab610ac7c584038</link>
-      <description>No abstract available.</description>
-      <guid isPermaLink="false">title:quantuminspired hamiltonian descent for mixedinteger quadratic programming|shreya chaudhary|2026</guid>
-      <pubDate>Tue, 14 Apr 2026 14:57:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Task Offloading for Edge Metaverse: A Joint BSUM and Reinforcement Learning Approach</title>
-      <link>https://www.semanticscholar.org/paper/01d7a1faa9a84130afafa2a7bf89fb55a399b028</link>
-      <description>A metaverse can bring many benefits (i.e., self-sustaining and proactive analytics (e.g., analysis before user requests)) to wireless applications; however, its deployment is very challenging due to simultaneous quality of service (QoS) and quality of physical experience (QoE) constraints. Furthermore, the computing and communication resources of end-nodes are limited. Therefore, this paper proposes a novel task offloading framework for metaverse-empowered wireless systems. Our formulated problem aims at minimizing the cost of task offloading in the metaverse while considering both QoS and QoE constraints by optimizing the task offloading, resource allocation, and transmit power allocation variables. To optimize the formulated problem, we use a decomposition-based scheme that further uses modified block-successive upper-bound minimization (BSUM), convex optimization, and multi-agent reinforcement learning (MARL) for transmit power allocation, resource allocation, and task offloading, respectively. Our solution of using convex optimization-assisted MARL for joint resource allocation and task offloading significantly improves the performance of learning in terms of reward. Furthermore, BSUM significantly improves transmit power allocation when used in conjunction with a convex optimizer and MARL. Other than that, we also use dueling to further improve the performance of MARL. Our analyses show that convex optimization, BSUM, and dueling help in significantly improving the performance of MARL. Compared to traditional MARL, our proposal results in significant improvement in terms of reward and cost, as illustrated by the results.</description>
-      <guid isPermaLink="false">doi:10.1109/TMC.2025.3648196</guid>
-      <pubDate>Sun, 10 May 2026 08:06:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Working Paper Stochastic Optimization of a Multi-currency Bond Portfolio</title>
-      <link>https://www.semanticscholar.org/paper/007babe66d1c7d549693d52434fa6e6b19d7e7cb</link>
-      <description>No abstract available.</description>
-      <guid isPermaLink="false">title:working paper stochastic optimization of a multicurrency bond portfolio|unknown|2026</guid>
-      <pubDate>Sat, 30 May 2026 08:26:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Frank-Wolfe with Moreau Envelope Smoothing for Nonsmooth Nonconvex Problems</title>
-      <link>http://arxiv.org/abs/2606.00853v1</link>
-      <description>We present and analyze Frank-Wolfe with Moreau Envelope Smoothing (FRAMES) for solving nonsmooth nonconvex constrained optimization problems, taking advantage of iterative smoothing via the Moreau envelope followed by one Frank-Wolfe step per iteration. The problem template we consider encompasses splitting problems with multiple convex constraint sets as well as problems with nonsmooth weakly convex regularizers like the MCP or SCAD penalties. We prove convergence, with rates, for both of these cases under a variety of mild assumptions, including inconsistent problems. Additionally, we highlight a new relationship between the Frank-Wolfe gap for a problem with nonsmooth objective and the Frank-Wolfe gap for a smoothed surrogate problem, demonstrating suboptimality of prior analyses. Numerical experiments are performed for matrix factorization problems and nonconvex quadratic splitting over multiple convex constraint sets, where the improvements in analysis are empirically observed.</description>
-      <guid isPermaLink="false">arxiv:2606.00853</guid>
-      <pubDate>Tue, 02 Jun 2026 10:20:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Constrained Neural Parameterization for Optimization in Function Spaces</title>
-      <link>http://arxiv.org/abs/2606.00855v1</link>
-      <description>We propose constrained neural parameterization schemes for several classes of constraints arising in optimization problems in function spaces. This is achieved by constructing smooth neural parameterizations whose image lies entirely in the admissible set while remaining asymptotically dense. In this way, the original constrained optimization problem is transformed into a smooth unconstrained problem in parameter space, enabling efficient gradient-based optimization without penalty parameters or Lagrange multipliers. We develop geometric constructions for polyhedral constraint sets in Hilbert spaces, propose smooth neural architectures for some pointwise constraints, and introduce an exact reduced neural formulation for PDE constraints that admit a separable structure. Numerical experiments demonstrate the effectiveness of the proposed methods.</description>
-      <guid isPermaLink="false">arxiv:2606.00855</guid>
-      <pubDate>Tue, 02 Jun 2026 10:20:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tiny Recursive Models for Solving the J2-Perturbed Lambert Problem</title>
-      <link>http://arxiv.org/abs/2606.00895v1</link>
-      <description>This paper presents a fast, recursive neural solver for the J2-perturbed Lambert problem based on Tiny Recursive Models (TRM), termed the TRM-Perturbed Lambert (TRM-PL) model. TRM is a weight-shared architecture whose effective capacity emerges from iteration depth rather than parameter count: a compact reasoning module is applied repeatedly within a two-level latent hierarchy, refining a candidate departure velocity by simulating the J2 trajectory and correcting it from the resulting tracking error. This unifies initial-guess generation and iterative correction in a single, end-to-end differentiable architecture. The recursive refinement loop is a learned alternative to the homotopy and continuation schemes of classical perturbed-Lambert solvers: rather than following a hand-designed path from the Keplerian to the perturbed solution, the network learns its own sequence of corrections. We evaluate TRM-PL on three test cases of increasing difficulty: single-revolution low-Earth-orbit (LEO) transfers, multi-revolution LEO transfers, and multi-revolution Jovian transfers. Three training paradigms are compared: jointly learning the Lambert solution and the J2 correction; refining the Lambert initial velocity with target-position and J2-corrected velocity supervision; and refining it with target-position supervision alone. Across all cases, the refinement-only approaches are the most reliable. The position-supervised variant reduces the median terminal-position error from 21.7 km to 0.027 km on single-revolution LEO, from 340.9 km to 0.31 km on multi-revolution LEO, all with the same 2.3M-parameter architecture. A single Newton corrector iteration on the TRM-PL output tightens the Jovian median to 0.063 km, yielding compact models accurate enough for embedded deployment.</description>
-      <guid isPermaLink="false">arxiv:2606.00895</guid>
-      <pubDate>Tue, 02 Jun 2026 10:20:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>When Shortages Lead to Export Restrictions: A Computational Study</title>
-      <link>http://arxiv.org/abs/2606.00896v1</link>
-      <description>Globalization has enabled companies to leverage cost efficiencies; however, it has increased exposure to disruption risks that threaten supply stability. Among these, export bans have emerged as a systemic challenge, often arising as a secondary effect of conventional supply capacity disruptions. The pharmaceutical industry is particularly vulnerable to bans because of the criticality of keeping life-saving medications available, yet such disruptions also jeopardize patient health globally as well as challenge company operations. This paper proposes a supply chain design model that incorporates the relationship between conventional disruption risks (quality-related capacity failures and natural disasters) and export bans that may be induced when the drug is projected to be in short supply. The model is a two-stage stochastic mixed integer program, where the systemic setting yields a second-stage problem with one binary variable and continuous variables. The structure motivates the study of three tailored solution methods: the Alternating Integer L-shaped Cut, Alternating Disjunctive Cut, and Alternating Bilinear Cut methods. In the nearly-continuous second stage context, the Alternating Integer L-shaped cuts perform best. Using an oncology drug case study, we study effects of systemic, induced risk and quantify the value of incorporating disruptions into supply chain design.</description>
-      <guid isPermaLink="false">arxiv:2606.00896</guid>
-      <pubDate>Tue, 02 Jun 2026 10:20:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nonsmooth High-Order Averaging Theory with Application to Extremum Seeking Optimization and Control</title>
-      <link>http://arxiv.org/abs/2606.00969v1</link>
-      <description>In this paper, we introduce a higher-order averaging theory and method for a wide range of nonsmooth systems that are generally characterized by the classical averaging canonical form. Utilizing tools from generalized derivatives theory, we provide a nonsmooth near-identity transformation analogous to the one in smooth averaging theory. Additionally, we exploit sharp calculus rules from lexicographic differentiation theory to provide a closed formula for nonsmooth first-order averaging, and for the first time in the literature, nonsmooth second-order averaging. In fact, our approach recovers the smooth averaging results, without needing to check, if the system under consideration is smooth. Equipped with a nonsmooth second-order averaging theory, we generalize literature results and introduce a class of control-affine extremum seeking systems that tolerate nonsmoothness in the vector fields and/or the objective function by analyzing its stability based on a closed formula analogous to first-order Lie bracket approximations available in the smooth literature. We provide numerical simulation results involving complicated nonsmooth functions to demonstrate the effectiveness of our approach.</description>
-      <guid isPermaLink="false">arxiv:2606.00969</guid>
-      <pubDate>Tue, 02 Jun 2026 10:20:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exact-Penalty Prox-Linear Methods for Bilevel Optimization with $\ell_1$ Lower-Level Gradient Penalty</title>
-      <link>http://arxiv.org/abs/2606.01055v1</link>
-      <description>Bilevel optimization is a fundamental framework for hierarchical decision-making, but its solution is challenging due to the implicit and typically set-valued nature of the lower-level optimality condition. In this paper,   we study bilevel optimization problems through an exact-penalty reformulation based on the $\ell_1$-norm of the lower-level gradient. Under suitable regularity assumptions,   we show that this penalty defines a distance-bound function and yields an exact penalty property for sufficiently large penalty parameters.   To solve the resulting nonsmooth penalized problem, we propose an exact-penalty prox-linear (EPPL) method and establish a stationarity-oriented convergence guarantee. We further specialize the method to the simple bilevel setting, where the subproblem admits an explicit dual reformulation as a box-constrained quadratic program. This structure leads to a dual spectral projected gradient method with closed-form primal recovery, for which convergence of the inner dual iterates is proved.   Numerical experiments on a minimum-norm least-squares bilevel model show that the proposed method is effective in reducing both the lower-level and upper-level gaps to high accuracy.   Compared with several existing methods, the proposed approach attains the best final solution accuracy on the tested instance.</description>
-      <guid isPermaLink="false">arxiv:2606.01055</guid>
-      <pubDate>Tue, 02 Jun 2026 10:20:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Relaxed Control with Entropy Regularization for Itô Stochastic Systems with Input Delay</title>
-      <link>http://arxiv.org/abs/2606.01058v1</link>
-      <description>This paper investigates the infinite-horizon classical stochastic optimal control problem with input delay under an entropy-regularized relaxed control framework. In particular, by constructing a relaxed system and introducing an entropy regularization term, we reformulate the classical optimal control problem into an entropy regularized formulation, and derive the optimal controller that follows a Gaussian distribution. Furthermore, we show that the optimal Gaussian control distribution converges to the optimal Dirac measure as the exploration weight tends to zero. Numerical simulation is provided to validate the effectiveness of the proposed method.</description>
-      <guid isPermaLink="false">arxiv:2606.01058</guid>
-      <pubDate>Tue, 02 Jun 2026 10:20:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Semi-analytic Method for Rapid Coverage Analysis of a Satellite Using Piecewise Ellipse Models</title>
-      <link>http://arxiv.org/abs/2606.01100v1</link>
-      <description>Satellite coverage analysis commonly relies on intensive numerical computations to evaluate access and revisit times, resulting in high computational costs, particularly in long-term performance assessment and large-scale constellation analysis involving numerous satellites. To address this issue, this paper presents a semi-analytic method for rapid coverage analysis for a satellite using piecewise ellipse models. We introduce the epoch longitude of the ascending node (ELAN), defined as the longitude of the ascending node at the beginning of each nodal period. Since the shape of the ground track over one nodal period remains invariant, target visibility within the period is uniquely determined by ELAN. By identifying the feasible range of ELAN, the proposed method excludes invisible nodal periods, thereby substantially reducing search space. Within the feasible range, we transform the visibility-boundary relationship into a modified ELAN (MELAN) and approximate it using analytically invertible piecewise ellipse models, enabling direct evaluation of the entry and exit times without repeated time-domain visibility searches. By exploiting the periodic evolution of ELAN, the proposed method efficiently computes access and revisit times over a given time horizon. Numerical case studies over a wide range of orbital configurations and target latitudes show that the proposed method achieves sub-0.1% error in most cases while significantly reducing computational effort.</description>
-      <guid isPermaLink="false">arxiv:2606.01100</guid>
-      <pubDate>Tue, 02 Jun 2026 10:20:38 +0000</pubDate>
     </item>
     <item>
       <title>A convexity criterion via the De Giorgi slope</title>

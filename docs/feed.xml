@@ -74,13 +74,6 @@
       <pubDate>Fri, 12 Jun 2026 10:09:32 +0000</pubDate>
     </item>
     <item>
-      <title>CVXPY 1.9: Recent Advances in Optimization Modeling Software</title>
-      <link>http://arxiv.org/abs/2606.14891v1</link>
-      <description>CVXPY is a Python-embedded domain-specific language for convex optimization that lets users express problems in mathematical notation while the system verifies convexity and reduces valid programs to solver-ready form. This paper reports on the major advances from versions 1.1 through 1.9. These include a unified conic quadratic program (CQP) standard form for canonicalization; a stacked-slices backend that accelerates parameterized programs; first-class support for N-dimensional expressions; explicit sparsity for variables; support for multiple variable attributes; cones/atoms relevant to quantum information theory; and the introduction of disciplined nonlinear programming (DNLP). We outline the design, algorithms, and modeling consequences of these features.</description>
-      <guid isPermaLink="false">arxiv:2606.14891</guid>
-      <pubDate>Tue, 16 Jun 2026 11:07:36 +0000</pubDate>
-    </item>
-    <item>
       <title>Anisotropic Template Ansätze for Robust Positive Invariance under State-Dependent Uncertainty</title>
       <link>http://arxiv.org/abs/2606.16068v1</link>
       <description>We establish sufficient conditions for robust positive invariance under state- and input-dependent disturbances with anisotropic covariance structure. The proposed ansatz maps a fixed ellipsoidal template through a GP-derived positive-definite matrix field, subsuming scalar homothetic scaling while retaining finite graph-based verification. The resulting LMI conditions couple the learned field to Schur-stable dynamics; an isotropic fallback with inflation factor $r=1/(1-γ_{\mathrm{cl}})$ proves admissibility. During each learning epoch the field is frozen, so online tube evaluation is one GP covariance query and a small matrix square root, with no online set iteration or LMI solve. Quadrotor simulations show a $195\times$ reduction in 3D velocity-tube volume and a $2.1{\times}10^5$ reduction in the joint 7D velocity-control subspace relative to a non-adaptive homothetic baseline. This extended version adds full proofs, a separated offline/online complexity analysis, and controller-sweep, contraction, and projection-area studies.</description>

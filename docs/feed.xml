@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Jul 2026 08:46:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 08:21:18 +0000</lastBuildDate>
     <item>
       <title>OPTIMAL RISK-AVERSE DESIGN OF GREEN HYDROGEN PROJECTS IN BRAZIL: A STOCHASTIC OPTIMIZATION APPROACH</title>
       <link>https://www.semanticscholar.org/paper/028e098db1db4bbe0da161d24eb9ac1f4474e44a</link>
@@ -793,6 +793,14 @@
       <description>The Kemeny rule aggregates rankings by minimizing their total Kendall-tau distance from an aggregate order. We prove that Kemeny Score is NP-complete for exactly three unweighted rankings, even when every candidate pair is split $2$-to-$1$. On the same profiles, the winner, unique-winner, and possible- and necessary-precedence problems are $Θ_2^p$-complete, while recognizing a Kemeny-optimal or uniquely Kemeny-optimal aggregate is coNP-complete. The hard instances induce tournaments of majority dimension exactly $3$. The reduction also determines the exact maximum-cut value from the optimal Kemeny score and recovers a maximum cut from any Kemeny-optimal aggregate. For every fixed $q\geq3$ and $\lceil q/2\rceil\leq s\leq q$, minimum pairwise support $s$ yields a sharp dichotomy: the score problem is NP-complete, the winner and precedence problems are $Θ_2^p$-complete, and the recognition problems are coNP-complete when $3s\leq2q$; for $3s&gt;2q$, the majority tournament is transitive and its unique topological order is the unique Kemeny-optimal aggregate. Exact support $s$ suffices in the hard case when $s&gt;q/2$, and supports in ${s,s+1}$ suffice when $s=q/2$. These results give complete fixed-profile-size classifications and transfer to Slater orders, permutation medians, and maximum-likelihood central rankings in the Mallows model. Finally, a six-copy construction proves NP-completeness of both Kemeny Score and Kendall--Tau Center for three pairwise-equidistant rankings that still split every pair $2$-to-$1$. For $N$ output candidates, their common distance is $\frac23\binom N2$, the largest possible for an equidistant triple. The construction gives affine formulas for both optimal values, characterizes all Kemeny-optimal output orders, and shows that the output has a unique Kemeny-optimal order and a unique center exactly when the input has a unique Kemeny-optimal order.</description>
       <guid isPermaLink="false">arxiv:2607.28588</guid>
       <pubDate>Fri, 31 Jul 2026 08:46:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Normal cones to sublevel sets of suprema of convex and quasiconvex functions</title>
+      <link>https://www.semanticscholar.org/paper/0049f134ddf25e31946211324dd8b365a9c5d89f</link>
+      <description>
+ We provide sharp and explicit characterizations of the normal cone to sublevel sets of suprema of arbitrary functions, expressed exclusively in terms of subdifferentials of the data functions. In the convex case, the resulting formulas involve the approximate and exact subdifferentials of the individual data functions at the nominal and nearby points. In contrast, the quasiconvex framework requires the use of the Fréchet subdifferential of these data functions but evaluated at nearby points. These results are applied to derive optimality conditions for infinite convex and quasiconvex optimization problems.</description>
+      <guid isPermaLink="false">doi:10.1007/s11750-026-00725-6</guid>
+      <pubDate>Sun, 02 Aug 2026 08:21:18 +0000</pubDate>
     </item>
   </channel>
 </rss>

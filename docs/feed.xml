@@ -25,31 +25,10 @@
       <pubDate>Tue, 14 Apr 2026 14:49:22 +0000</pubDate>
     </item>
     <item>
-      <title>Tax-Efficient retirement Withdrawal Planning using a linear Programming Model</title>
-      <link>https://www.semanticscholar.org/paper/007454fec21427f100d7d1113d65e91e6fb1e899</link>
-      <description>No abstract available.</description>
-      <guid isPermaLink="false">title:taxefficient retirement withdrawal planning using a linear programming model|unknown|2026</guid>
-      <pubDate>Tue, 14 Apr 2026 14:49:22 +0000</pubDate>
-    </item>
-    <item>
       <title>Novel computational workflow for selecting virtual patient cohorts for in silico clinical trials</title>
       <link>https://www.semanticscholar.org/paper/00739fd8ffff803d31892d327abc62029f9cfac2</link>
       <description>Objectives: In silico clinical trials are a well-accepted model-informed drug development (MIDD) tool to understand, optimize and predict the effect of drugs across diverse populations [1,2]. Generation and selection of virtual patients for simulating in silico trials remains an open area of research not least due to challenges of selecting virtual patients that are representative of the underlying physiological and clinical characteristics of individual subjects enrolled into clinical trials [3]. While virtual patients can be obtained by sampling sets of parameters from a calibrated non-linear mixed effects model, these may however generate biomarkers outside the expected range of observations, thus impacting the accuracy of in silico clinical trials predictions. To obtain a more representative virtual population, different algorithms can be applied to tailor plausible patient cohorts and yield calibrated virtual patients. In this work, we present a new virtual patient selection workflow using a minimal quantitative systems pharmacology (QSP) model of chronic hepatitis B virus (HBV) infection. Methods: A QSP model of HBV disease progression incorporating the effect of standard-of-care therapies (peg-interferon and nucleos(t)ide analogues) was used to generate plausible patient cohorts corresponding to the Everest trial [4] (a real-world clinical study exploring how interferon therapy can achieve functional cure in chronically infected patients). To tailor plausible patients to a virtual cohort mimicking baseline characteristics of patients enrolled into the Everest project, we developed a computational algorithm based on a mixed-integer linear programming framework coupled to a multi-objective optimization genetic algorithm. Subsequently, the virtual patient cohort obtained with this algorithm was used to perform in silico clinical trials mirroring the Everest protocol to validate the workflow. Non-linear relationships between baseline characteristics, prognostic biomarkers, and dosing parameters with clinical endpoints were explored using in silico trials. Results: We show that: (1) the HBV QSP model captures longitudinal biomarker data from untreated patients as well as chronically infected subjects receiving standard-of-care therapies, (2) Plausible patients generated with the model capture HBV disease progression, (3) The novel computational workflow efficiently selects virtual patients matching HBsAg and viral load baseline Everest data distributions, (4) In silico trials that mirrored the Everest trial showed quantitative agreement with clinical end-points thus validating the workflow, (5) In silico trials were leveraged to identify and compare optimal dosing regimens and explore mechanistic pathways in responders and non-responders to interferon. Conclusions: This work proposes and validates a novel QSP-based computational workflow for performing in silico trials, generating mechanistic hypotheses, and identifying optimal dosing regimens.Citations: COI: DW, AN, AS, RD are employees of and hold shares in GSK. JCR is a joint postdoc with WJJ (University of Buffalo) and GSK.[1] Madabushi et al. Pharm Res. 2022[2] Rieger et al. Prog Biophys Mol Biol. 2018[3] Arsène et al. NY: Springer US. 2023[4] Xie et al. Int Liver Meeting. 2022</description>
       <guid isPermaLink="false">doi:10.70534/kzql1879</guid>
-      <pubDate>Tue, 14 Apr 2026 14:49:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Optimization of Investments in Cybersecurity: A Linear Optimization of Investments in Cybersecurity: A Linear Programming Approach Programming Approach</title>
-      <link>https://www.semanticscholar.org/paper/005368d90a35e2d353ab0d0b1196f2b54e9f955f</link>
-      <description>No abstract available.</description>
-      <guid isPermaLink="false">title:optimization of investments in cybersecurity a linear optimization of investment|swati jain|2026</guid>
-      <pubDate>Tue, 14 Apr 2026 14:49:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>G lobal</title>
-      <link>https://www.semanticscholar.org/paper/004c2cbb72b8e42cf48478bdca721a1985d3d5de</link>
-      <description>For modeling imprecise and indeterminate data for multi-objective decision making, two different methods: neutrosophic multi-objective linear/non-linear programming neutrosophic goal programming, which have been very recently proposed in the literatuire. In many economic problems, the well-known probabilities or fuzzy solutions procedures are not suitable because they cannot deal the situation when indeterminacy inherently involves in the problem. In this case we propose a new concept in optimization problem under uncertainty and indeterminacy. It is an extension of fuzzy and intuitionistic fuzzy optimization in which the degrees of indeterminacy and falsity (rejection) of objectives and constraints are simultaneously considered together with the degrees of truth membership (satisfaction/acceptance). The drawbacks of the existing neutrosophic optimization models have been presented and new framework of multi-objective optimization in neutrosophic environment has been proposed. The essence of the proposed approach is that it is capable of dealing with indeterminacy and falsity simultaneously.</description>
-      <guid isPermaLink="false">title:g lobal|surapati pramanik|2026</guid>
       <pubDate>Tue, 14 Apr 2026 14:49:22 +0000</pubDate>
     </item>
     <item>

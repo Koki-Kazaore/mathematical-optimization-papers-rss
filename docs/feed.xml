@@ -10,21 +10,6 @@
     <language>en</language>
     <lastBuildDate>Fri, 28 Aug 2026 18:12:10 +0000</lastBuildDate>
     <item>
-      <title>OPTIMAL RISK-AVERSE DESIGN OF GREEN HYDROGEN PROJECTS IN BRAZIL: A STOCHASTIC OPTIMIZATION APPROACH</title>
-      <link>https://www.semanticscholar.org/paper/028e098db1db4bbe0da161d24eb9ac1f4474e44a</link>
-      <description>No abstract available.</description>
-      <guid isPermaLink="false">doi:10.17771/pucrio.acad.69614</guid>
-      <pubDate>Tue, 14 Apr 2026 14:49:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deterministic and stochastic optimization for solving large size inverse problems in image processing</title>
-      <link>https://www.semanticscholar.org/paper/0073b5f7c09801aa9740f8f17aad511e26e56c08</link>
-      <description>
- Dans cette thèse on s’intéresse au problème des décompositions canoniques polyadiques de tenseurs d’ordre N potentiellement grands et sous différentes contraintes (non-négativité, aspect creux lié à une possible surestimation du rang du tenseur). Pour traiter ce problème, nous proposons trois nouvelles approches itératives différentes: deux approches déterministes dont une approche proximale, et une approche stochastique. La première approche étend les travaux de thèse de J-P. Royer au cas de tenseurs de dimension N. Dans l’approche stochastique, nous considérons pour la première fois dans le domaine des décompositions tensorielles, des algorithmes génétiques (mimétiques) dont principe général repose sur l’évolution d’une population de candidats. Dans le dernier type d’approche, nous avons considéré un algorithme proximal pré-conditionné (le Block-Coordinate Variable Metric Forward-Backward), algorithme fonctionnant par blocs de données avec une matrice de pré-conditionnement liée à chaque bloc et fondé sur deux étapes successives principales : une étape de gradient et une étape proximale. Finalement, les différentes méthodes suggérées sont comparées entre elles et avec d’autres algorithmes classiques de la littérature sur des données synthétiques (à la fois aléatoires ou proches des données observées en spectroscopie de fluorescence) et sur des données expérimentales réelles correspondant à une campagne de surveillance des eaux d’une rivière et visant à la détection d’apparition de polluants.</description>
-      <guid isPermaLink="false">doi:10.70675/3459c071zc780z47ffz86b0z9386f680ab57</guid>
-      <pubDate>Tue, 14 Apr 2026 14:49:22 +0000</pubDate>
-    </item>
-    <item>
       <title>Tax-Efficient retirement Withdrawal Planning using a linear Programming Model</title>
       <link>https://www.semanticscholar.org/paper/007454fec21427f100d7d1113d65e91e6fb1e899</link>
       <description>No abstract available.</description>
@@ -58,13 +43,6 @@
       <description>No abstract available.</description>
       <guid isPermaLink="false">title:quantuminspired hamiltonian descent for mixedinteger quadratic programming|shreya chaudhary|2026</guid>
       <pubDate>Tue, 14 Apr 2026 14:57:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Working Paper Stochastic Optimization of a Multi-currency Bond Portfolio</title>
-      <link>https://www.semanticscholar.org/paper/007babe66d1c7d549693d52434fa6e6b19d7e7cb</link>
-      <description>No abstract available.</description>
-      <guid isPermaLink="false">title:working paper stochastic optimization of a multicurrency bond portfolio|unknown|2026</guid>
-      <pubDate>Sat, 30 May 2026 08:26:30 +0000</pubDate>
     </item>
     <item>
       <title>Generative Neural Networks for Sinkhorn Distributionally Robust Hypothesis Testing</title>

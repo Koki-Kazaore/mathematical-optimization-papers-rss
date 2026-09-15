@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 12 Sep 2026 10:06:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 11:05:44 +0000</lastBuildDate>
     <item>
       <title>OPTIMAL RISK-AVERSE DESIGN OF GREEN HYDROGEN PROJECTS IN BRAZIL: A STOCHASTIC OPTIMIZATION APPROACH</title>
       <link>https://www.semanticscholar.org/paper/028e098db1db4bbe0da161d24eb9ac1f4474e44a</link>
@@ -74,11 +74,11 @@
       <pubDate>Fri, 11 Sep 2026 10:37:07 +0000</pubDate>
     </item>
     <item>
-      <title>Improved Differential Cryptanalysis of the Ultra-Lightweight Block Cipher PICO</title>
-      <link>https://www.semanticscholar.org/paper/014038e2a5b45227d9deb028b93cfffbf6041cfc</link>
-      <description>PICO is an ultra-lightweight substitution–permutation network block cipher designed for resource-constrained devices such as Internet of Things terminals and edge agents. For fixed endpoints, summing the characteristic probabilities over an enumerated finite weight window gives a verifiable lower bound on the differential probability. We use a PICO-specific workflow that combines mixed-integer linear programming bounds on active substitution boxes, exact-weight Boolean satisfiability search, optional Matsui pruning, and fixed-endpoint enumeration. For the selected endpoints, enumeration over W=63,…,76 and W=66,…,79 gives finite-window lower bounds of 2−59.95 and 2−61.95 for 21 and 22 rounds, respectively. We prepend two rounds and append three rounds to the 21-round differential distinguisher. The resulting 26-round analysis is an analytical equivalent-round-key filtering-and-ranking procedure for a 108-bit tuple. The verified 21-round finite-window probability input is a factor of 20.8032≈1.745 larger than the previously reported input, increasing the expected right-tuple support at fixed S under the analytical accounting. For the illustrative choice S=242, the analytical resources are D=262 chosen plaintexts, a normalized substitution-box filtering workload of T=2100.11 equivalent 26-round encryptions, and M=262 stored plaintext–ciphertext records. This setting is not tied to a demonstrated success probability and does not establish an equal-success complexity advantage over prior work.</description>
-      <guid isPermaLink="false">doi:10.3390/e28091006</guid>
-      <pubDate>Sat, 12 Sep 2026 10:06:32 +0000</pubDate>
+      <title>Failure Recovery for Network Slicing in Software-Defined Integrated Satellite-Terrestrial Networks</title>
+      <link>https://www.semanticscholar.org/paper/024bb17c2d3c211b24172d72c7f11d5f7884a6f2</link>
+      <description>Network slicing in software-defined integrated satellite-terrestrial networks (SD-ISTNs) enables the creation of customized network slices on shared infrastructure, improving flexibility and resource utilization. However, node failures due to software/hardware faults, energy depletion, or attacks may disrupt slices, causing service interruptions.Failure recovery in SD-ISTNs is particularly challenging, as satellite mobility results in a time-varying yet predictable topology and the availability of multi-dimensional resources dynamically fluctuates. Therefore, in this paper, we investigate rapid failure recovery for network slicing in time-varying SD-ISTNs by jointly leveraging communication, storage, and computation resources to achieve efficient recovery and minimize the service completion time. Specifically, we employ the multi-functional time-expanded graph (MF-TEG) to model time-varying SD-ISTNs with multi-dimensional resources, and formulate the failure recovery problem as a mixed integer nonlinear programming (MINLP) problem. To effectively solve this problem, we propose two novel algorithms: (i) an effective reformulation-based mixed integer linear programming (ER-MILP) algorithm that reformulates the original MINLP into a tractable MILP and serves as a high-quality benchmark, albeit with relatively high computational complexity; and (ii) a binary-search-based penalty successive upper bound minimization-rounding (BS-PSUM-R) algorithm that achieves near-optimal performance with significantly lower complexity. Simulation results demonstrate that both algorithms effectively reduce service completion time compared with baseline algorithms.</description>
+      <guid isPermaLink="false">doi:10.1109/TMC.2026.3708374</guid>
+      <pubDate>Tue, 15 Sep 2026 11:05:44 +0000</pubDate>
     </item>
   </channel>
 </rss>

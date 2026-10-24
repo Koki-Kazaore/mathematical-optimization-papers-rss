@@ -38,6 +38,13 @@
       <pubDate>Tue, 14 Apr 2026 14:49:22 +0000</pubDate>
     </item>
     <item>
+      <title>Quantum-Inspired Hamiltonian Descent for Mixed-Integer Quadratic Programming</title>
+      <link>https://www.semanticscholar.org/paper/019a75f1df24f379a909ed29aab610ac7c584038</link>
+      <description>No abstract available.</description>
+      <guid isPermaLink="false">title:quantuminspired hamiltonian descent for mixedinteger quadratic programming|shreya chaudhary|2026</guid>
+      <pubDate>Tue, 14 Apr 2026 14:57:01 +0000</pubDate>
+    </item>
+    <item>
       <title>Combining Exponential and Polynomial Convergence Rates for Accelerated Extremum Seeking: A High-Order Lie Bracket Approach</title>
       <link>http://arxiv.org/abs/2610.27239v1</link>
       <description>In this paper, we leverage the recently developed general higher-order Lie bracket approximation theory and framework for control-affine systems to show that we can design extremum seeking (ES) systems that combine flows based on: (i) first-order Lie bracket approximation, which provide an exponential convergence rate for quadratic objective functions and polynomial convergence rate for non-quadratic objective functions; and (ii) higher-order Lie bracket approximation, which provide exponential convergence rate near the minimizer even if the objective function is non-quadratic (i.e., flatter and possesses vanishing Hessian at the minimizer). Such combination provides an accelerated ES design that benefits from the polynomial decay rate farther away from the minimizer and exponential decay rate near the minimizer even for complicated nature of objective functions. We provide numerical simulations to demonstrate the results, including multi-variable and nonpolynomial flat-bottomed objective functions.</description>

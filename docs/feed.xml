@@ -10,6 +10,77 @@
     <language>en</language>
     <lastBuildDate>Fri, 06 Nov 2026 13:44:31 +0000</lastBuildDate>
     <item>
+      <title>OPTIMAL RISK-AVERSE DESIGN OF GREEN HYDROGEN PROJECTS IN BRAZIL: A STOCHASTIC OPTIMIZATION APPROACH</title>
+      <link>https://www.semanticscholar.org/paper/028e098db1db4bbe0da161d24eb9ac1f4474e44a</link>
+      <description>No abstract available.</description>
+      <guid isPermaLink="false">doi:10.17771/pucrio.acad.69614</guid>
+      <pubDate>Tue, 14 Apr 2026 14:49:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deterministic and stochastic optimization for solving large size inverse problems in image processing</title>
+      <link>https://www.semanticscholar.org/paper/0073b5f7c09801aa9740f8f17aad511e26e56c08</link>
+      <description>
+ Dans cette thèse on s’intéresse au problème des décompositions canoniques polyadiques de tenseurs d’ordre N potentiellement grands et sous différentes contraintes (non-négativité, aspect creux lié à une possible surestimation du rang du tenseur). Pour traiter ce problème, nous proposons trois nouvelles approches itératives différentes: deux approches déterministes dont une approche proximale, et une approche stochastique. La première approche étend les travaux de thèse de J-P. Royer au cas de tenseurs de dimension N. Dans l’approche stochastique, nous considérons pour la première fois dans le domaine des décompositions tensorielles, des algorithmes génétiques (mimétiques) dont principe général repose sur l’évolution d’une population de candidats. Dans le dernier type d’approche, nous avons considéré un algorithme proximal pré-conditionné (le Block-Coordinate Variable Metric Forward-Backward), algorithme fonctionnant par blocs de données avec une matrice de pré-conditionnement liée à chaque bloc et fondé sur deux étapes successives principales : une étape de gradient et une étape proximale. Finalement, les différentes méthodes suggérées sont comparées entre elles et avec d’autres algorithmes classiques de la littérature sur des données synthétiques (à la fois aléatoires ou proches des données observées en spectroscopie de fluorescence) et sur des données expérimentales réelles correspondant à une campagne de surveillance des eaux d’une rivière et visant à la détection d’apparition de polluants.</description>
+      <guid isPermaLink="false">doi:10.70675/3459c071zc780z47ffz86b0z9386f680ab57</guid>
+      <pubDate>Tue, 14 Apr 2026 14:49:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tax-Efficient retirement Withdrawal Planning using a linear Programming Model</title>
+      <link>https://www.semanticscholar.org/paper/007454fec21427f100d7d1113d65e91e6fb1e899</link>
+      <description>No abstract available.</description>
+      <guid isPermaLink="false">title:taxefficient retirement withdrawal planning using a linear programming model|unknown|2026</guid>
+      <pubDate>Tue, 14 Apr 2026 14:49:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Novel computational workflow for selecting virtual patient cohorts for in silico clinical trials</title>
+      <link>https://www.semanticscholar.org/paper/00739fd8ffff803d31892d327abc62029f9cfac2</link>
+      <description>Objectives: In silico clinical trials are a well-accepted model-informed drug development (MIDD) tool to understand, optimize and predict the effect of drugs across diverse populations [1,2]. Generation and selection of virtual patients for simulating in silico trials remains an open area of research not least due to challenges of selecting virtual patients that are representative of the underlying physiological and clinical characteristics of individual subjects enrolled into clinical trials [3]. While virtual patients can be obtained by sampling sets of parameters from a calibrated non-linear mixed effects model, these may however generate biomarkers outside the expected range of observations, thus impacting the accuracy of in silico clinical trials predictions. To obtain a more representative virtual population, different algorithms can be applied to tailor plausible patient cohorts and yield calibrated virtual patients. In this work, we present a new virtual patient selection workflow using a minimal quantitative systems pharmacology (QSP) model of chronic hepatitis B virus (HBV) infection. Methods: A QSP model of HBV disease progression incorporating the effect of standard-of-care therapies (peg-interferon and nucleos(t)ide analogues) was used to generate plausible patient cohorts corresponding to the Everest trial [4] (a real-world clinical study exploring how interferon therapy can achieve functional cure in chronically infected patients). To tailor plausible patients to a virtual cohort mimicking baseline characteristics of patients enrolled into the Everest project, we developed a computational algorithm based on a mixed-integer linear programming framework coupled to a multi-objective optimization genetic algorithm. Subsequently, the virtual patient cohort obtained with this algorithm was used to perform in silico clinical trials mirroring the Everest protocol to validate the workflow. Non-linear relationships between baseline characteristics, prognostic biomarkers, and dosing parameters with clinical endpoints were explored using in silico trials. Results: We show that: (1) the HBV QSP model captures longitudinal biomarker data from untreated patients as well as chronically infected subjects receiving standard-of-care therapies, (2) Plausible patients generated with the model capture HBV disease progression, (3) The novel computational workflow efficiently selects virtual patients matching HBsAg and viral load baseline Everest data distributions, (4) In silico trials that mirrored the Everest trial showed quantitative agreement with clinical end-points thus validating the workflow, (5) In silico trials were leveraged to identify and compare optimal dosing regimens and explore mechanistic pathways in responders and non-responders to interferon. Conclusions: This work proposes and validates a novel QSP-based computational workflow for performing in silico trials, generating mechanistic hypotheses, and identifying optimal dosing regimens.Citations: COI: DW, AN, AS, RD are employees of and hold shares in GSK. JCR is a joint postdoc with WJJ (University of Buffalo) and GSK.[1] Madabushi et al. Pharm Res. 2022[2] Rieger et al. Prog Biophys Mol Biol. 2018[3] Arsène et al. NY: Springer US. 2023[4] Xie et al. Int Liver Meeting. 2022</description>
+      <guid isPermaLink="false">doi:10.70534/kzql1879</guid>
+      <pubDate>Tue, 14 Apr 2026 14:49:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Optimization of Investments in Cybersecurity: A Linear Optimization of Investments in Cybersecurity: A Linear Programming Approach Programming Approach</title>
+      <link>https://www.semanticscholar.org/paper/005368d90a35e2d353ab0d0b1196f2b54e9f955f</link>
+      <description>No abstract available.</description>
+      <guid isPermaLink="false">title:optimization of investments in cybersecurity a linear optimization of investment|swati jain|2026</guid>
+      <pubDate>Tue, 14 Apr 2026 14:49:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>G lobal</title>
+      <link>https://www.semanticscholar.org/paper/004c2cbb72b8e42cf48478bdca721a1985d3d5de</link>
+      <description>For modeling imprecise and indeterminate data for multi-objective decision making, two different methods: neutrosophic multi-objective linear/non-linear programming neutrosophic goal programming, which have been very recently proposed in the literatuire. In many economic problems, the well-known probabilities or fuzzy solutions procedures are not suitable because they cannot deal the situation when indeterminacy inherently involves in the problem. In this case we propose a new concept in optimization problem under uncertainty and indeterminacy. It is an extension of fuzzy and intuitionistic fuzzy optimization in which the degrees of indeterminacy and falsity (rejection) of objectives and constraints are simultaneously considered together with the degrees of truth membership (satisfaction/acceptance). The drawbacks of the existing neutrosophic optimization models have been presented and new framework of multi-objective optimization in neutrosophic environment has been proposed. The essence of the proposed approach is that it is capable of dealing with indeterminacy and falsity simultaneously.</description>
+      <guid isPermaLink="false">title:g lobal|surapati pramanik|2026</guid>
+      <pubDate>Tue, 14 Apr 2026 14:49:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum-Inspired Hamiltonian Descent for Mixed-Integer Quadratic Programming</title>
+      <link>https://www.semanticscholar.org/paper/019a75f1df24f379a909ed29aab610ac7c584038</link>
+      <description>No abstract available.</description>
+      <guid isPermaLink="false">title:quantuminspired hamiltonian descent for mixedinteger quadratic programming|shreya chaudhary|2026</guid>
+      <pubDate>Tue, 14 Apr 2026 14:57:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Working Paper Stochastic Optimization of a Multi-currency Bond Portfolio</title>
+      <link>https://www.semanticscholar.org/paper/007babe66d1c7d549693d52434fa6e6b19d7e7cb</link>
+      <description>No abstract available.</description>
+      <guid isPermaLink="false">title:working paper stochastic optimization of a multicurrency bond portfolio|unknown|2026</guid>
+      <pubDate>Sat, 30 May 2026 08:26:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pediatric Tender Scheduling under uncertainty: A stochastic optimization approach</title>
+      <link>https://www.semanticscholar.org/paper/00296013c2f0b010fc648191d6583a58d17eeda9</link>
+      <description>Pediatric vaccine tender scheduling is critical for ensuring long-term stability and equitable coverage in low- and lower-middle-income markets. Effective scheduling not only facilitates equitable vaccine procurement but also helps prevent the spread of vaccine-preventable diseases. However, the stochastic nature of demand and year-to-year supply fluctuations presents significant challenges to tender planning. This study aims to address three key questions: (1) What is the optimal sequencing and scheduling of vaccine tenders to enhance affordability and profitability over extended planning horizons? (2) How do ongoing tenders influence long-term scheduling strategies? (3) How does an optimized tender scheduling approach compare to current year-to-year decision-making practices? To answer these questions, we propose a stochastic optimization model that accounts for demand uncertainty and supply variability. Additionally, we develop a current-practice approximation model for benchmarking purposes. The study explores multiple optimization objectives, examining how different priorities impact tender length, duration, and scheduling. We also analyze the role of quantity discount pricing and its influence on tendering decisions. Through this analysis, we aim to provide actionable insights into tender scheduling and procurement strategies, offering practical guidelines for maximizing affordability and profitability. Our findings highlight the importance of incorporating existing tender commitments into long-term planning and provide evidence-based recommendations on scheduling and procurement policies. Ultimately, we demonstrate that a long-term planning horizon fosters sustainable vaccine coverage, enhancing both market stability and public health outcomes.</description>
+      <guid isPermaLink="false">doi:10.21872/annual2025_6314</guid>
+      <pubDate>Sat, 03 Oct 2026 11:06:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Hybrid Last-Mile Delivery System Using a Truck and Diverse Robotic Fleet</title>
+      <link>https://www.semanticscholar.org/paper/020c44de4b73b2fef9738668feefb8abb0af6477</link>
+      <description>The integration of autonomous robots into last-mile delivery systems offers a promising solution to the limitations of conventional truck-based logistics. This study investigates a hybrid last-mile delivery system utilizing both homogeneous and heterogeneous robots, addressing scenarios in urban areas. To manage battery constraints for robots returning after rendezvousing with a truck, we propose mixed-integer linear programming models that incorporate battery recharging and swapping strategies. Our work explores optimal solutions for truck and robot routes and evaluates different robot combinations to minimize total delivery time. We also develop a three-phased heuristic algorithm to efficiently solve large-scale problems. The models are validated using case studies in Ulsan Metropolitan City, South Korea. It demonstrates that the battery-swapping strategy can reduce total delivery time by up to 50% compared to truck-only systems. The findings highlight the significance of extended robot driving ranges in urban areas to enhance delivery performance. A sensitivity analysis further examines the effects of factors such as customer node size, robot speed, number of robots, and robot ratios. This study addresses key gaps in the literature on hybrid truck-robot delivery systems and provides practical insights to enhance efficiency and reduce delivery times in urban areas.</description>
+      <guid isPermaLink="false">doi:10.21872/annual2025_8781</guid>
+      <pubDate>Sat, 03 Oct 2026 11:06:24 +0000</pubDate>
+    </item>
+    <item>
       <title>Computing Invariant Reachable Sets through Sum-of-Squares Programming</title>
       <link>http://arxiv.org/abs/2611.04325v1</link>
       <description>Funnels, time-varying invariant sets around nominal trajectories, certify that a closed-loop system tracks its plan, and can be composed into verified motion plans. Their computation by sum-of-squares (SOS) programming is well established in formulation but not in practice: the result depends on implementation choices such as the initial guess, Lyapunov function normalization, and termination rule, which the literature documents only briefly. This paper presents a self-contained treatment of SOS-based funnel computation, implemented in the open-source package computeSOSFunnels. We propose a minimum-volume formulation with inlet and outlet constraints under which funnels with coinciding nominal endpoints compose by construction. Numerical experiments on a unicycle, with timing studies on a cart-pole and a 12-state quadrotor, characterize the pipeline: infeasible initial guesses are partly decidable before solving, the certificate shows no violations among 39,000 boundary samples per funnel under the true dynamics, and constructing the semidefinite program, not solving it, dominates computation time.</description>
@@ -176,6 +247,13 @@
       <description>Minimum shipment quota regulations ensure that socially critical commodities are not excluded from capacity-constrained freight markets by profit-driven allocation. Existing models of such regulation are deterministic and static, assuming perfect market knowledge and instantaneous convergence to a rational equilibrium. This paper relaxes both assumptions through a framework combining adaptive robust optimization, multi-objective optimization, and evolutionary game theory. A robust optimization model first characterizes the regulator's quota-setting problem under uncertain commodity availability, trading social welfare against enforcement cost to generate a Pareto frontier of quota policies. This frontier then defines the regulator's strategy space in a three-population evolutionary game in which the regulator, suppliers, and carrier co-evolve under replicator dynamics, so that the prevailing policy emerges from the interaction of the three players. The framework is calibrated to a Canadian rail freight case study that covers crude oil, corn, barley, and oat. Quota regulation raises social welfare from 65.0 to 288.2 million CAD, at an enforcement cost of about 2% of the gain. Two findings carry particular policy weight: capacity shortfalls fall entirely on unprotected commodities the carrier ships voluntarily, sparing both the highest-margin and the protected products; and a fall in transport cost can end the regulation while the exclusion it was designed to correct persists, because the margin observable before bidding diverges from the margin prevailing once suppliers adapt.</description>
       <guid isPermaLink="false">arxiv:2611.05364</guid>
       <pubDate>Wed, 04 Nov 2026 13:46:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>a-справедливая оптимизационная модель и численные алгоритмы выбора общей лексической нормы тюркских языков</title>
+      <link>https://www.semanticscholar.org/paper/0139cc4141d028be162a74428a80912091ff04e8</link>
+      <description>The selection of a common lexical norm for Turkic languages is formulated as a discrete optimization problem that ensures fair intelligibility for speakers of all languages. For each concept, one form is chosen from a set of candidates; intelligibility for speakers of each language is estimated by a feature-weighted edit distance, and the choice is governed by an a-fair objective function together with phonological consistency constraints. We prove that the weighted averaging model is the special case a = 0, while the max-min criterion is the limit a → ∞. An exact mixed-integer linear programming formulation and an approximate algorithm based on relaxation, mirror ascent, rounding and local search are developed. A computational experiment on 1016 concepts of five Turkic languages from the NorthEuraLex database shows that under weighted averaging the intelligibility for the worst-off language (Kazakh) is 0.528, whereas the max-min solution raises it to 0.704 (by 33.2%) while reducing the population-weighted average by only 6.0%. The proposed algorithm deviates from the exact solution by less than 0.03% and is up to 49 times faster for a = 1.</description>
+      <guid isPermaLink="false">doi:10.71310/pcam.5_76.2026.09</guid>
+      <pubDate>Thu, 05 Nov 2026 13:59:17 +0000</pubDate>
     </item>
     <item>
       <title>A Fully Polynomial Approximation Algorithm for the Sherrington-Kirkpatrick Model</title>
